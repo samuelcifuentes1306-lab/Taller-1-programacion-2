@@ -1,0 +1,35 @@
+import turtle 
+
+tortuga = turtle.Turtle()
+
+#instrucciones tortuga
+tortuga.color("red")
+tortuga.fillcolor("red")
+tortuga.speed(5)
+
+tortuga.left(90)
+tortuga.forward(100)
+tortuga.left(90)
+tortuga.forward(100)
+tortuga.left(90)
+tortuga.forward(100)
+tortuga.right(90)
+tortuga.forward(100)
+tortuga.left(90)
+tortuga.forward(100)
+tortuga.left(90)
+tortuga.forward(100)
+tortuga.right(90)
+tortuga.forward(100)
+tortuga.left(90)
+tortuga.forward(100)
+tortuga.left(90)
+tortuga.forward(100)
+tortuga.right(90)
+tortuga.forward(100)
+tortuga.left(90)
+tortuga.forward(100)
+tortuga.left(90)
+tortuga.forward(100)
+
+turtle.done()
