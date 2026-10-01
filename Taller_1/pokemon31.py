@@ -7,18 +7,18 @@ x, y, z = mc.entity.getTilePos(user_id)
 
 
 CL_031 = {
-    0: (block.AIR.id, 0),   # Fondo -> Blanco
-    1:  (block.WOOL.id, 15),  # Negro (contorno)
-    2:  (block.WOOL.id, 9),   # Cian (azul medio del cuerpo)
-    3:  (block.WOOL.id, 3),   # Azul Claro (azul claro del cuerpo)
-    4:  (block.WOOL.id, 7),   # Gris (sombras)
-    5:  (block.WOOL.id, 4),   # Amarillo (panza / borde del caparazón)
-    6:  (block.WOOL.id, 12),  # Café (caparazón)
-    7:  (block.WOOL.id, 1),   # Naranja (brillo del caparazón)
-    8:  (block.WOOL.id, 11),  # Azul (sombra oscura)
-    9:  (block.WOOL.id, 0),   # Blanco (ojos y brillos)
-    10: (block.WOOL.id, 14),  # Rojo (pupila)
-    11: (block.WOOL.id, 4)    # Amarillo (garras / patas)
+    0: (block.AIR.id, 0),   # Fondo 
+    1:  (block.WOOL.id, 15),  # Negro 
+    2:  (block.WOOL.id, 9),   # Cian 
+    3:  (block.WOOL.id, 3),   # Azul Claro
+    4:  (block.WOOL.id, 7),   # Gris 
+    5:  (block.WOOL.id, 4),   # Amarillo 
+    6:  (block.WOOL.id, 12),  # Café 
+    7:  (block.WOOL.id, 1),   # Naranja 
+    8:  (block.WOOL.id, 11),  # Azul 
+    9:  (block.WOOL.id, 0),   # Blanco 
+    10: (block.WOOL.id, 14),  # Rojo
+    11: (block.WOOL.id, 4)    # Amarillo 
 }
 
 PK_031 = [
